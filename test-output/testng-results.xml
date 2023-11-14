@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44174" started-at="2023-11-14T17:10:50Z" finished-at="2023-11-14T17:11:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44174" started-at="2023-11-14T17:10:50Z" finished-at="2023-11-14T17:11:34Z">
+      <class name="com.example.instagram.Instagram">
+        <test-method status="PASS" signature="uploadImageOnInstagram()" name="uploadImageOnInstagram" duration-ms="44158" started-at="2023-11-14T17:10:50Z" finished-at="2023-11-14T17:11:34Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

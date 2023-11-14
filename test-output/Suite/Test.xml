@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="ImransDell" name="com.example.instagram.Instagram" tests="1" failures="0" timestamp="14 Nov 2023 11:41:34 GMT" time="44.174" errors="0">
+  <testcase name="uploadImageOnInstagram" time="44.158" classname="com.example.instagram.Instagram"/>
+</testsuite>
